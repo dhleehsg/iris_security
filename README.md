@@ -1,2 +1,2 @@
 # iris_security
-iris security sample code
+Iris security code for paper 'Cancelable Iris Biometrics Using Noise Embedding' submitted to IEEE TIFS.
