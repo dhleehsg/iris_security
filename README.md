@@ -1,5 +1,5 @@
 # Iris security code
-for paper '# Cancelable Iris Biometrics Using Noise Embedding' submitted to IEEE TIFS.
+for paper 'Cancelable Iris Biometrics Using Noise Embedding' submitted to IEEE TIFS.
 
 # abstract
 
@@ -34,3 +34,4 @@ which is better or comparable to the existing methods.
 Moreover, the security analysis ensures that the proposed 
 algorithm satisfies non-invertibility and unlinkability, and is robust against 
 several attacks as well.
+
