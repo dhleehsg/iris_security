@@ -1,7 +1,7 @@
 # Iris security code
-for paper 'Cancelable Iris Biometrics Using Noise Embedding' submitted to IEEE TIFS.
+For paper 'Cancelable Iris Biometrics Using Noise Embedding' submitted to IEEE TIFS.
 
-# abstract
+# Abstract
 
 This paper presents a cancelable biometric (CB) scheme for iris 
 recognition system. 
@@ -35,3 +35,10 @@ Moreover, the security analysis ensures that the proposed
 algorithm satisfies non-invertibility and unlinkability, and is robust against 
 several attacks as well.
 
+# Code usage
+
+to be updated
+
+# Experimental result
+
+to be updated
