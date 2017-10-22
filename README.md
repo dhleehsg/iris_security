@@ -34,9 +34,14 @@ Moreover, the security analysis ensures that the proposed
 algorithm satisfies non-invertibility and unlinkability, and is robust against 
 several attacks as well.
 
-## Code usage
+## Code
 
-to be updated
+code usage comments included in 'IrisSecurity.zip'
+The three databases used in this paper should be requested at each site.
+*CASIA Iris V3 [link](http://biometrics.idealtest.org/findTotalDbByMode.do?mode=Iris).
+*IIT Delhi (IITD) Iris [link](http://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Iris.htm).
+*ND-iris-0405 [link](https://sites.google.com/a/nd.edu/public-cvrl/data-sets).
+
 
 ## Experimental result
 
